@@ -1,3 +1,5 @@
+// Link: https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1
+
 // Recurisve function to count Nodes in a LinkedList
 
 int countLinkedListNodes(Node *p)
